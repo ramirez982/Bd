@@ -1,0 +1,11 @@
+com\mycompany\bodega_simulador\vista\EliminarProductoView.class
+com\mycompany\bodega_simulador\modelo\Administrador.class
+com\mycompany\bodega_simulador\Bodega_simulador.class
+com\mycompany\bodega_simulador\vista\LoginView.class
+com\mycompany\bodega_simulador\viewmodel\BodegaViewModel.class
+com\mycompany\bodega_simulador\modelo\Bodega.class
+com\mycompany\bodega_simulador\vista\ListarProductosView.class
+com\mycompany\bodega_simulador\modelo\Producto.class
+com\mycompany\bodega_simulador\vista\AgregarProductoView.class
+com\mycompany\bodega_simulador\vista\MenuView.class
+com\mycompany\bodega_simulador\vista\ActualizarProductoView.class
